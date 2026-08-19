@@ -7,7 +7,7 @@ Durante a disciplina, serão desenvolvidas aplicações utilizando **React Nativ
 ## 📚 Exercícios
 
 - [Exercício 01 - Projeto Inicial](./meuapp)
-- [Exercício 02 - Contatos](./contatoapp)
+- [Exercício 02 - Contatos](./contatapp)
 
 ## 🛠️ Tecnologias
 
