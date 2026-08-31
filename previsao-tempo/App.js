@@ -250,26 +250,30 @@ const handleSearch = () => {
 
 
             <View style={styles.stats}>
-              <StatItem
-                icon=""
-                value={`${today?.rain_probability ?? weather.rain}%`}
-                label="Chuva"
-              />
+              <View style={styles.stats}>
+  <StatItem
+  icon=""
+  value={`${today?.rain ?? 0} mm`}
+  label="Chuva prevista"
+/>
 
-              <StatItem
-                icon=""
-                value={`${weather.humidity}%`}
-                label="Umidade"
-              />
 
-              <StatItem
-                icon=""
-                value={weather.wind_speedy}
-                label="Vento"
-              />
+  <StatItem
+    icon=""
+    value={`${weather.humidity}%`}
+    label="Umidade"
+  />
+
+  <StatItem
+    icon=""
+    value={weather.wind_speedy}
+    label="Vento"
+  />
+</View>
+
             </View>
 
-            {/* TODAY */}
+            {/* TODAY
 
             <View style={styles.section}>
               <View style={styles.sectionHeader}>
@@ -285,7 +289,7 @@ const handleSearch = () => {
               <HourlyForecast
                 weather={weather}
               />
-            </View>
+            </View> */}
 
 
             <DailyForecast
