@@ -8,6 +8,8 @@ Durante a disciplina, serão desenvolvidas aplicações utilizando **React Nativ
 
 - [Exercício 01 - Projeto Inicial](./meuapp)
 - [Exercício 02 - Contatos](./contatapp)
+- [Exercício 03 - Previsao Tempo](./previsao-tempo)
+- [Exercício 04 - MagicShop](./magicshop)
 
 ## 🛠️ Tecnologias
 
