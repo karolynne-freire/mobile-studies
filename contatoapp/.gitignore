@@ -8,8 +8,10 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
-firebase.js
+.env
+
 # Native
+.kotlin/
 *.orig.*
 *.jks
 *.p8
@@ -34,3 +36,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+example
+
+# generated native folders
+/ios
+/android
