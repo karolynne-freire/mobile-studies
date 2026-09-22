@@ -10,6 +10,7 @@ Durante a disciplina, serão desenvolvidas aplicações utilizando **React Nativ
 - [Exercício 02 - Contatos](./contatapp)
 - [Exercício 03 - Previsao Tempo](./previsao-tempo)
 - [Exercício 04 - MagicShop](./magicshop)
+- [Exercício 05 - Contato - Firebase](./contatopp)
 
 ## 🛠️ Tecnologias
 
